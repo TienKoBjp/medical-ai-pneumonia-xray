@@ -11,16 +11,15 @@ The project was developed and trained in **Google Colab** and compares:
 The image pipeline applies **CLAHE preprocessing** and data augmentation before model training.
 
 > ⚠️ **Research / educational use only.** This project is not a medical diagnostic device and must not be used as a substitute for professional clinical assessment.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TienKoBjp/medical-ai-pneumonia-xray/blob/main/pneumonia_detection_github.ipynb)
 ## 🚀 Open in Google Colab
 
 After uploading this repository to GitHub, you can add the Colab badge below:
 
 ```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/pneumonia_detection_github.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TienKoBjp/medical-ai-pneumonia-xray/blob/main/pneumonia_detection_github.ipynb)
 ```
 
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub account and repository name.
 
 ## 📌 Project Overview
 
