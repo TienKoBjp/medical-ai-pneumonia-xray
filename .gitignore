@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+kaggle.json
+.env
+*.env
+
+# Datasets
+dataset/
+*.zip
+*.tar
+*.tar.gz
+
+# Model checkpoints / large files
+*.h5
+*.keras
+*.ckpt
+*.weights.h5
+weights/
+checkpoints/
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# OS
+.DS_Store
+Thumbs.db
